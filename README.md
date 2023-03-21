@@ -1,18 +1,23 @@
 # clever-tweets
 A curated list of the cleverest tweets, stored in plaintext: the most universal format. Submit your favorite tweet(s) by making a pull request.
 
-## What is and is not clever
+## What is clever?
 
-*Within the context of this repo*, "clever" tweets are the ones that make you think, "Good one! Why didn't I think of that?" You will know them when you see them. Everyone will have a different perspective on what is, and is not, funny, clever, humorous, insightful, etc. Please take a look at the [examples](./tweets/) to find what's appropriate to add to this repo and what isn't.
+*Within the context of this repo*, "clever" tweets are the ones that make you think, "Good one! Why didn't I think of that?" You will know them when you see them. Everyone will have a different perspective on what is, and is not, funny, clever, humorous, insightful, etc. Please take a look at the [examples](./tweets/) to find some examples of what I think are clever. You may have a different definition of clever, that's great! Please add some tweets that you think are clever by creating a pull request.
 
-What is not clever *within the context of this repo*
+It's more important we define what does NOT belong here:
+
+*Tweets that are:*
 - Pop culture or recent news focused, has a very short expiration date.
 - Too simple, everyone has already come up with that joke or comment.
 - Retweets and tweets with multimedia (photos, videos, links). 
-- Hot take 
+- Hot takes
 - Too reliant on knowing the background of the writer or the subject matter. 
-- Recent politics/politicians
-- ...
+- About recent politics/politicians
+- (Create a pull request to add new rules)
+
+
+*Are not allowed in this repository*
 
 
 ## Format
