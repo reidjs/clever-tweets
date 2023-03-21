@@ -7,17 +7,17 @@ A curated list of the cleverest tweets, stored in plaintext: the most universal 
 
 It's more important we define what does NOT belong here:
 
-*Tweets that are:*
-- Pop culture or recent news focused, has a very short expiration date.
+*These types of tweets are not encouraged in this repository*
+
+- Pop culture, politics, or recent news focused, has a very short expiration date.
 - Too simple, everyone has already come up with that joke or comment.
 - Retweets and tweets with multimedia (photos, videos, links). 
 - Hot takes
 - Too reliant on knowing the background of the writer or the subject matter. 
-- About recent politics/politicians
 - (Create a pull request to add new rules)
 
 
-*Are not allowed in this repository*
+*These types of tweets are not encouraged in this repository*
 
 
 ## Format
