@@ -3,7 +3,7 @@ A curated list of the cleverest tweets, stored in plaintext: the most universal 
 
 ## What is clever?
 
-*Within the context of this repo*, "clever" tweets are the ones that make you think, "Good one! Why didn't I think of that?" You will know them when you see them. Everyone will have a different perspective on what is, and is not, funny, clever, humorous, insightful, etc. Please take a look at the [examples](./tweets/) to find some examples of what I think are clever. You may have a different definition of clever, that's great! Please add some tweets that you think are clever by creating a pull request.
+*Within the context of this repo*, "clever tweets" are the ones that make you think, "Good one! Why didn't I think of that?" You will know them when you see them. Everyone will have a different perspective on what is, and is not, funny, clever, humorous, or insightful. Please take a look at the [tweets](./tweets/) to find some examples of clever tweets. You may have a different definition of clever, that's great! Please add some tweets that you think are clever by creating a pull request.
 
 It's more important we define what does NOT belong here:
 
