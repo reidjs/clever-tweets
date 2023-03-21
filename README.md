@@ -37,6 +37,9 @@ link: twitter.com/direct/link/to/tweet
 Tweet goes here with all special characters included written as close to the original as possible. 
 ```
 
+## Useful
+- Tool to turn text to kebab case: https://textedit.tools/kebabcase
+
 ## Ideas
 - Tool to quickly convert a direct link to a file in this archive
 - Reach out directly to comedians and writers who write jokes on twitter, explain the project, see if they are interested in submitting some of their favorites. 
