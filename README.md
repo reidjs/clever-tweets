@@ -30,10 +30,12 @@ date: YYYY-MM-DD
 author: USERNAME
 link: twitter.com/direct/link/to/tweet
 ---
-Tweet goes here with all special characters included written as close to the original as possible. 
+Tweet goes here, with all special characters included, as similar to the original as possible. 
 
 
-For example:
+****For example****
+
+
 2023-01-17_marknorm_the-book-of-henry-ford-s-life-now-that-s-an-auto-biography.md
 ---
 date: 2023-01-17
