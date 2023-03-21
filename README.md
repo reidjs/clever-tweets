@@ -16,14 +16,14 @@ What is not clever *within the context of this repo*
 
 Use markdown (.md) as the file type.
 
-1. Filename
+1. Filename: 
 
-
-`YYYY-MM-DD_USERNAME_Tweet-goes-here-as-written-with-any-special-characters-stripped-out-in-kebab-format-like-this.md`
+```
+YYYY-MM-DD_USERNAME_Tweet-goes-here-as-written-with-any-special-characters-stripped-out-in-kebab-format-like-this.md
+```
 
 
 2. Contents
-
 
 ```
 ---
