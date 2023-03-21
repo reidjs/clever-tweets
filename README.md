@@ -10,8 +10,8 @@ What is not clever *within the context of this repo*
 - Too simple, everyone has already come up with that joke or comment.
 - Retweets and tweets with multimedia (photos, videos, links). 
 - Hot take 
-- Too reliant on knowing the background of the writer
-- Politics
+- Too reliant on knowing the background of the writer or the subject matter. 
+- Recent politics/politicians
 - ...
 
 
@@ -39,3 +39,4 @@ Tweet goes here with all special characters included written as close to the ori
 
 ## Ideas
 - Tool to quickly convert a direct link to a file in this archive
+- Reach out directly to comedians and writers who write jokes on twitter, explain the project, see if they are interested in submitting some of their favorites. 
