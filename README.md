@@ -25,16 +25,6 @@ Use markdown (.md) as the file type.
 
 ```
 YYYY-MM-DD_USERNAME_Tweet-goes-here-as-written-with-any-special-characters-stripped-out-in-kebab-format-like-this.md
-
-For example:
-2023-01-17_marknorm_the-book-of-henry-ford-s-life-now-that-s-an-auto-biography.md
-```
-
-
-
-2. Contents
-
-```
 ---
 date: YYYY-MM-DD
 author: USERNAME
@@ -42,14 +32,18 @@ link: twitter.com/direct/link/to/tweet
 ---
 Tweet goes here with all special characters included written as close to the original as possible. 
 
-For example
+
+For example:
+2023-01-17_marknorm_the-book-of-henry-ford-s-life-now-that-s-an-auto-biography.md
 ---
 date: 2023-01-17
 author: marknorm
 link: https://twitter.com/marknorm/status/1615315717468966913
 ---
 The book of Henry Ford’s life, now that’s an auto biography
+
 ```
+
 
 ## Useful
 - Tool to turn text to kebab case: https://textedit.tools/kebabcase
