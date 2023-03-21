@@ -1,5 +1,5 @@
 # clever-tweets
-A curated list of the cleverest tweets, stored in plaintext: the most universal format. Submit your favorite tweet(s) by making a pull request.
+A curated list of the cleverest tweets, stored in plaintext: the most universal format. Submit your favorite tweet(s) by making a pull request or contacting me via the email address on my GitHub profile.
 
 ## What is clever?
 
