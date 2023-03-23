@@ -51,5 +51,5 @@ The book of Henry Ford’s life, now that’s an auto biography
 - Tool to turn text to kebab case: https://textedit.tools/kebabcase
 
 ## Ideas
-- Tool to quickly convert a direct link to a file in this archive
-- Reach out directly to comedians and writers who write jokes on twitter, explain the project, see if they are interested in submitting some of their favorites. 
+- Tool to quickly convert a direct twitter link to a file in this repo 
+
